@@ -1,3 +1,3 @@
 # Reinfocement-Learning-Project_fr
-Projet de travaux pratiques en RL
+Master's Practical work project
  
